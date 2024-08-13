@@ -22,7 +22,7 @@ repository               : "antoine/antoinekpb.github.io"
 author:
   # Biographic information
   avatar           : "ak.jpg"
-  name             : "Your Sidebar Name"
+  name             : #
   pronouns         : # example: "she/her"  
   bio              : "Research Analyst"
   location         : "Frankfurt am Main"
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : antoinekpb
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
