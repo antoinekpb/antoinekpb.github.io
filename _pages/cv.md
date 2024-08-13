@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics
+* M.S. in Economics, Université Paris Dauphine - PSL, 2020
+* Non-degree, Fudan University (复旦大学) School of Economics, 2016-2017
+* B.S. in Economics, Université Clermont Auvergne, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Analyst, European Central Bank (since 2021)
+  * Directorate General Economics, Forecasting and Policy Modelling
+  * ECB macroeconomic projection exercise and monetary policy preparations
+  * Model development
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Policy Analyst, Organisation for Economic Co-operation and Development (2019-2021)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Macroeconomics
+* Monetary Economics
+* Macroeconometrics
 
 Publications
 ======
@@ -47,18 +37,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
